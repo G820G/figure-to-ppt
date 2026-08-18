@@ -1,5 +1,7 @@
 # figure-to-ppt
 
+[简体中文](README.zh-CN.md) | English
+
 `figure-to-ppt` is a Codex skill for converting one raster scientific figure, project workflow, or research-framework diagram into a high-fidelity, editable PowerPoint slide.
 
 It is designed for diagrams where visual fidelity matters but text, simple shapes, and optionally arrows should remain editable.
@@ -16,7 +18,7 @@ It is designed for diagrams where visual fidelity matters but text, simple shape
 
 ## Arrow native mode
 
-Before every conversion, the skill asks whether to enable `arrow_native_mode`:
+Before every conversion, the skill asks whether to enable `arrow_native_mode`. The original Chinese prompt is available in the [Simplified Chinese README](README.zh-CN.md):
 
 > 是否启用箭头原生化？启用后，能可靠识别的曲线、折线和箭头会改为可编辑 PPT 连接线，但可能有轻微视觉偏差；不启用则保留高保真透明抠图箭头。
 
