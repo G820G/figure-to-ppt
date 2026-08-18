@@ -1,0 +1,3 @@
+interface:
+  display_name: "Figure to PPT"
+  short_description: "Rebuild diagram images as editable PPT slides"
